@@ -111,6 +111,6 @@ Webhook → Node.js backend (Express)
 ## 🎯 Showcase Value
 - 🆓 100% free stack → runs on **local infra** or free APIs  
 - 🤖 Demonstrates **how LLMs + bots accelerate DevOps/SDET workflows**  
-- 📊 Useful **demo project for interviews or portfolio**  
+
 
 ---
